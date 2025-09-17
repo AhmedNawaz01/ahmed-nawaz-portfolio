@@ -1,0 +1,13 @@
+# Output
+node_modules
+dist
+build
+coverage
+
+# Config/IDE
+.husky
+.vscode
+.DS_Store
+
+# Assets
+**/*.svg
